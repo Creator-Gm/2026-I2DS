@@ -65,7 +65,7 @@ internal class Program
         Console.WriteLine(notas20);
         Console.Write("Notas de 10: ");
         Console.WriteLine(notas10);
-        Console.Write("Notas de 5: ");
+        Console.Write("Notas de 5: "); 
         Console.WriteLine(notas5);
         Console.Write("Notas de 2: ");
         Console.WriteLine(notas2);
