@@ -1,0 +1,15 @@
+C:\Users\DS1\Desktop\2026-I2DS\Aula-04\02-Herança\Herenca\bin\Debug\net10.0\Herenca.exe
+C:\Users\DS1\Desktop\2026-I2DS\Aula-04\02-Herança\Herenca\bin\Debug\net10.0\Herenca.deps.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-04\02-Herança\Herenca\bin\Debug\net10.0\Herenca.runtimeconfig.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-04\02-Herança\Herenca\bin\Debug\net10.0\Herenca.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-04\02-Herança\Herenca\bin\Debug\net10.0\Herenca.pdb
+C:\Users\DS1\Desktop\2026-I2DS\Aula-04\02-Herança\Herenca\obj\Debug\net10.0\Herenca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DS1\Desktop\2026-I2DS\Aula-04\02-Herança\Herenca\obj\Debug\net10.0\Herenca.AssemblyInfoInputs.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-04\02-Herança\Herenca\obj\Debug\net10.0\Herenca.AssemblyInfo.cs
+C:\Users\DS1\Desktop\2026-I2DS\Aula-04\02-Herança\Herenca\obj\Debug\net10.0\Herenca.csproj.CoreCompileInputs.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-04\02-Herança\Herenca\obj\Debug\net10.0\Herenca.sourcelink.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-04\02-Herança\Herenca\obj\Debug\net10.0\Herenca.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-04\02-Herança\Herenca\obj\Debug\net10.0\refint\Herenca.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-04\02-Herança\Herenca\obj\Debug\net10.0\Herenca.pdb
+C:\Users\DS1\Desktop\2026-I2DS\Aula-04\02-Herança\Herenca\obj\Debug\net10.0\Herenca.genruntimeconfig.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-04\02-Herança\Herenca\obj\Debug\net10.0\ref\Herenca.dll
