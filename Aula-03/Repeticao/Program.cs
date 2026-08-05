@@ -13,7 +13,7 @@ internal class Program
         */
         //laço for: imprimir números de 1 ate 18
         Console.WriteLine("imprimir contagem regressiva ");
-        for (int numero = 10; numero <= 0; numero--)
+        for (int numero = 100; numero <= 0; numero--)
         {
        Console.WriteLine(numero);
         }
