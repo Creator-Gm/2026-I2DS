@@ -1,0 +1,15 @@
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-08\mmorpg\bin\Debug\net10.0\mmorpg.exe
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-08\mmorpg\bin\Debug\net10.0\mmorpg.deps.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-08\mmorpg\bin\Debug\net10.0\mmorpg.runtimeconfig.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-08\mmorpg\bin\Debug\net10.0\mmorpg.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-08\mmorpg\bin\Debug\net10.0\mmorpg.pdb
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-08\mmorpg\obj\Debug\net10.0\mmorpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-08\mmorpg\obj\Debug\net10.0\mmorpg.AssemblyInfoInputs.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-08\mmorpg\obj\Debug\net10.0\mmorpg.AssemblyInfo.cs
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-08\mmorpg\obj\Debug\net10.0\mmorpg.csproj.CoreCompileInputs.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-08\mmorpg\obj\Debug\net10.0\mmorpg.sourcelink.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-08\mmorpg\obj\Debug\net10.0\mmorpg.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-08\mmorpg\obj\Debug\net10.0\refint\mmorpg.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-08\mmorpg\obj\Debug\net10.0\mmorpg.pdb
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-08\mmorpg\obj\Debug\net10.0\mmorpg.genruntimeconfig.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-05\Exercicio-08\mmorpg\obj\Debug\net10.0\ref\mmorpg.dll
