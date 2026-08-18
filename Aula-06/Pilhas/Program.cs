@@ -2,61 +2,45 @@
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("=== TRABALHANDO COM DICIONÁRIOS ===");
-        // Sintaxe Dictonary<chave, valor>
-        //                  <key, value>
-        
-        // 1 - Criar um dicionário vazio
-        Dictionary<string, string> dicionario = new Dictionary<string, string>();
-        
-        // 2 - Adicionar elementos no dicionario
-        dicionario.Add("Casa","Construção destinada à moradia.");
-        dicionario.Add("Livro","Conjunto de páginas encadernadas contendo textos, imagens ou informações.");
-        dicionario.Add("Amizade","Relação de afeto, confiança e companheirismo entre pessoas.");
-        dicionario.Add("Escola","Instituição destinada ao ensino e à educação de crianças, jovens ou adultos.");
+        Console.WriteLine("");
+        Console.WriteLine("=== TRABALHANDO COM PILHAS (FILO) ===");
 
-        // 3 - Percorrer todos os elemetos de um dicionario
-        Console.WriteLine();
-        foreach (var item in dicionario)
-        {
-            Console.WriteLine($"{item.Key} - {item.Value}");
-        }
+        // FIFO = first in last out
 
-        // 4 - Alterar um elemento do dicionario
-        dicionario["Casa"] = "Construção destinada à moradia definitiva ou temporária.";
+        // 1 - criar uma nova pilha vazia
+
+        Stack<string> pilhaLivros = new Stack<string>();
+
+        // 2 - adicionar elementos em uma pilha
+
+        pilhaLivros.Push("Dom Quixote");
+        pilhaLivros.Push("O Morro dos Ventos Uivantes");
+        pilhaLivros.Push("O Cortiço");
+
+        // 3 - percorrer todos os elementos de uma pilha
+ 
         Console.WriteLine();
-        foreach (var item in dicionario)
+
+        foreach (var livro in pilhaLivros)
         {
-            Console.WriteLine($"{item.Key} - {item.Value}");
+            Console.WriteLine(livro);
         }
 
-        // 5 - Verificar se uma chave (key) existe dentro do dicionário
-        string termo;
-        bool chaveExiste = dicionario.TryGetValue("Amizade", out termo);
+        // 4 - remover os elementos da pilha
+
+        string livroRemovido = pilhaLivros.Pop();
+
         Console.WriteLine();
-        if (chaveExiste)
+        Console.WriteLine($"O livro retirado foi {livroRemovido}");
+
+        pilhaLivros.Push("Dom Casmurro");
+        Console.WriteLine();
+
+        foreach (var livro in pilhaLivros)
         {
-            Console.WriteLine($"A palavra foi encontrada: {termo}");
-        }
-        else
-        {
-            Console.WriteLine("A palavra não foi encontrada no dicionário");
+            Console.WriteLine(livro);
         }
 
-        // 6 - Excluir um elemento do dicionario -> Somente por Chave(Key)
-        dicionario.Remove("Casa");
         Console.WriteLine();
-        foreach (var item in dicionario)
-        {
-            Console.WriteLine($"{item.Key} - {item.Value}");
-        }
-
-        // 7 - Ordenar um Dicionario por chave
-        var DicionarioOrdenado = dicionario.OrderBy(i => i.Key);
-        Console.WriteLine();
-        foreach (var item in DicionarioOrdenado)
-        {
-            Console.WriteLine($"{item.Key} - {item.Value}");
-        }
     }
 }
